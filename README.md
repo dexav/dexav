@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm looking for an internship by Summer 2026 to finish my Education. 🎓<br>I'm currently in a gap year. ✈️<br>In this gap year, I'm going to improve my coding skills in JavaScript and also educate myself more about backend, cloud, database, etc. 💻☁️<br>Besides coding, I love to watch, but also play, Formula 1. 🏎️ It's my favourite activity in my free time. 🎮<br> You can reach by sending me an E-Mail.
+I'm looking for an internship by Summer 2026 to finish my Education in 2027. 🎓<br>I'm currently in a gap year. ✈️<br>In this gap year, I'm going to improve my coding skills in JavaScript and also educate myself more about backend, cloud, database, etc. 💻☁️<br>Besides coding, I love to watch, but also play, Formula 1. 🏎️ It's my favourite activity in my free time. 🎮<br> You can reach by sending me an E-Mail.
 
 
 ## 🌐 Socials:
